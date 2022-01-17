@@ -1,9 +1,9 @@
 # OMEGA-long-case
-Omega MSX acrylic long case
+Omega MSX acrylic long case.
 Here you are different work in progress design projects/flavours of the acrylic case for the OMEGA HOME COMPUTER (MSX).
 
 He aquí los diferentes diseños en progreso para obtener una o varias carcasas de acrilico para el OMEGA HOME COMPUTER.
-Este modelo de carcasa es una alternativa de mayor tamaño partiendo de la idea original de carcasa (SKiselev)
+Este modelo de carcasa es una alternativa de mayor tamaño partiendo de la idea original de carcasa (SKiselev).
 
 In the "Xlucky-Solis-MainVersion" folder are the first versions and the main version from which the others are derived. Created by Xlucky from @Skiselev's prototype but adapted to a larger size and in 4mm acrylic.
 Inside the "JEckert_3mm_version" folder is the modification made by Jake Eckert, back to 3mm.
